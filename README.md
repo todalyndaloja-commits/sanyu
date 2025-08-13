@@ -12,7 +12,7 @@ If you have already installed it, follow these steps:
 
 # Step 1: Clone the repository using the project's Git URL.
 ```sh 
-git clone (https://github.com/todalyndaloja-commits/sanyu.git)
+git clone https://github.com/todalyndaloja-commits/sanyu.git
 ```
 # Step 2: Navigate to the project directory.
 ```sh
