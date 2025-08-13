@@ -16,7 +16,7 @@ git clone [https://github.com/todalyndaloja-commits/sanyu.git](https://github.co
 ```
 # Step 2: Navigate to the project directory.
 ```sh
-cd sanyu-landing-page
+cd sanyu
 ```
 # Step 3: Install the necessary dependencies.
 ```sh
