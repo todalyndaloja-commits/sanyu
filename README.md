@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Test URL**: [sanyu]([https://sanyu.netlify.app/](https://preview--sanyu-china-to-brazil.lovable.app/))
+**Test URL**: [sanyu]([https://sanyu.netlify.app/](https://preview--sanyu-china-to-brazil.lovable.app/])
 
 ## requirement
 The only requirement is having *Node.js* & *npm installed* - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
